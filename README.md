@@ -1,5 +1,7 @@
 # Questionario-LPOO-II---IFBA
-Exemplo de fatoração simples para questionário de LPOO II - IFBA
+// Exemplo de fatoração simples para questionário de LPOO II - IFBA
+// Classe pricipal refatorada
+
 public class TestarLivros {
     public static void main(String[] args) throws Exception {
         Livro livrofavorito = new Livro("O pequeno principe", 98);
